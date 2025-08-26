@@ -16,9 +16,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aman-bhaskar-1086a9269" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman-bhaskar-1086a9269" height="30" width="40" /></a>
-<a href="https://instagram.com/amanbhaskar837" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amanbhaskar837" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aman_bhaskar16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shivamkr082003" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shivam-kumar-138924288/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam-kumar-138924288" height="30" width="40" /></a>
+<a href="https://instagram.com/shivamkr_08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shivamkr_08" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/66T5Eko6U6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shivamkr082003" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
